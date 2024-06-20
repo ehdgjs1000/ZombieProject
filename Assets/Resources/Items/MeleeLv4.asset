@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5a68d9ae19f9546843bcd9b8dde43d, type: 3}
+  m_Name: MeleeLv4
+  m_EditorClassIdentifier: 
+  itemName: MeleeLv4
+  itemType: 3
+  itemImg: {fileID: 21300000, guid: 2b63f4db4cff3064aa6db775632ccfda, type: 3}
+  itemPrefab: {fileID: 5231487658776258271, guid: 3e5db5de61ea7524a9eecbbf0c7feea4, type: 3}
+  weaponMesh: {fileID: 4300000, guid: ca3dd12a7dd478b4a8a9b12138c1fa16, type: 3}
+  equipType: 
+  equipLv: 0
+  healAmount: 0
+  thristAmonut: 0
+  drinkCount: 0
+  purifyTime: 0
+  fireRate: 1
+  maxBulletCount: 0
+  retroForce: 0
+  damage: 90
+  bulletLevel: 0
+  ammoLevel: 0
+  maxItemCount: 0
+  reloadSfx: {fileID: 0}
+  gunSound: {fileID: 8300000, guid: ff91ff0038c271f4dab92f084fbeab9c, type: 3}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5a68d9ae19f9546843bcd9b8dde43d, type: 3}
+  m_Name: HelmetLv1
+  m_EditorClassIdentifier: 
+  itemName: HelmetLv1
+  itemType: 0
+  itemImg: {fileID: 21300000, guid: c5f142bede9987547a7e22bbc967f045, type: 3}
+  itemPrefab: {fileID: 1983005140116300, guid: 48e18e84724f84244a2f9d6363d13fc0, type: 3}
+  weaponMesh: {fileID: 0}
+  equipType: Helmet
+  equipLv: 1
+  healAmount: 0
+  thristAmonut: 0
+  drinkCount: 0
+  purifyTime: 0
+  fireRate: 0
+  maxBulletCount: 0
+  retroForce: 0
+  damage: 0
+  bulletLevel: 0
+  ammoLevel: 0
+  maxItemCount: 0
+  reloadSfx: {fileID: 0}
+  gunSound: {fileID: 0}

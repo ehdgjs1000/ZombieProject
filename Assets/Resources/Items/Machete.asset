@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5a68d9ae19f9546843bcd9b8dde43d, type: 3}
+  m_Name: Machete
+  m_EditorClassIdentifier: 
+  itemName: Machete
+  itemType: 3
+  itemImg: {fileID: 21300000, guid: 16daf307f019a814e98e1b3bcb082be0, type: 3}
+  itemPrefab: {fileID: 895530851841503762, guid: 9761be1bb9a749843882b939c6f0462a, type: 3}
+  weaponMesh: {fileID: 4300000, guid: 36893df50df1cc34aab188ecc413329e, type: 3}
+  equipType: 
+  equipLv: 0
+  healAmount: 0
+  thristAmonut: 0
+  hungryAmount: 0
+  drinkCount: 0
+  purifyTime: 0
+  fireRate: 1.5
+  maxBulletCount: 0
+  retroForce: 0
+  damage: 22
+  bulletLevel: 0
+  ammoLevel: 0
+  maxItemCount: 0
+  reloadSfx: {fileID: 0}
+  gunSound: {fileID: 8300000, guid: 7425ce3e0dda78940bae9665c7b74af0, type: 3}

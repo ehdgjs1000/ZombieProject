@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5a68d9ae19f9546843bcd9b8dde43d, type: 3}
+  m_Name: AmmoLv3
+  m_EditorClassIdentifier: 
+  itemName: AmmoLv3
+  itemType: 4
+  itemImg: {fileID: 21300000, guid: 0c59a04a27fbcff48ab197979939d15d, type: 3}
+  itemPrefab: {fileID: 6447872668294447073, guid: 4b547520a9528b24ea2e37ed2c54f36e, type: 3}
+  weaponMesh: {fileID: 4300000, guid: 60201869746d13145a400a0495dea671, type: 3}
+  equipType: 
+  equipLv: 0
+  healAmount: 0
+  thristAmonut: 0
+  drinkCount: 0
+  purifyTime: 0
+  fireRate: 0
+  maxBulletCount: 0
+  retroForce: 0
+  damage: 0
+  bulletLevel: 0
+  ammoLevel: 3
+  maxItemCount: 0
+  reloadSfx: {fileID: 0}
+  gunSound: {fileID: 0}

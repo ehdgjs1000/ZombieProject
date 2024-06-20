@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5a68d9ae19f9546843bcd9b8dde43d, type: 3}
+  m_Name: AK-47
+  m_EditorClassIdentifier: 
+  itemName: AK-47
+  itemType: 3
+  itemImg: {fileID: 21300000, guid: 3a2e24a605c6b6f4489ec2d9a45914b3, type: 3}
+  itemPrefab: {fileID: 1523676449047648, guid: 0cbebae65400e084291a5ff307d66a2b, type: 3}
+  weaponMesh: {fileID: 4300000, guid: bfcc82f419f1e3a4abeb8da721e79d12, type: 3}
+  healAmount: 0
+  thristAmonut: 0
+  fireRate: 0.15
+  maxBulletCount: 30
+  retroForce: 3
+  damage: 33
+  bulletLevel: 2
+  reloadSfx: {fileID: 8300000, guid: d4f34c7678486aa49b4edd604a300c01, type: 3}
+  gunSound: {fileID: 8300000, guid: 5931d7d831e828d4cb43c47f76a5978f, type: 3}

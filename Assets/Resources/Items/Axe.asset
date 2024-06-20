@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5a68d9ae19f9546843bcd9b8dde43d, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  itemName: Axe
+  itemType: 3
+  itemImg: {fileID: 21300000, guid: 76cf6f6df8044ef47bc33cb86497116e, type: 3}
+  itemPrefab: {fileID: 3290598117132601010, guid: c78b2f6da8c496044acf68bbb77bee45, type: 3}
+  weaponMesh: {fileID: 4300000, guid: 53dac8d9500972c4fae4b18adc2e54b2, type: 3}
+  equipType: 
+  equipLv: 0
+  healAmount: 0
+  thristAmonut: 0
+  hungryAmount: 0
+  drinkCount: 0
+  purifyTime: 0
+  fireRate: 1.5
+  maxBulletCount: 0
+  retroForce: 0
+  damage: 20
+  bulletLevel: 0
+  ammoLevel: 0
+  maxItemCount: 0
+  reloadSfx: {fileID: 0}
+  gunSound: {fileID: 0}

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Zombie
+  - Bullet
+  - Item
+  - Tree
+  - Rock
+  - BaseCamp
+  - Tent
+  - BossZombie
+  - Water
+  - ShortZombie
+  - LongZombie
+  - CrawlZombie
+  - DeafZombie
+  - MiniZombie
+  - Outside
+  - ShortWeaponArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Zombie
+  - Terrain
+  - Craft
+  - ZombieWeapon
+  - NotBakeLayer
+  - BossZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

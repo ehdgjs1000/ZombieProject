@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5a68d9ae19f9546843bcd9b8dde43d, type: 3}
+  m_Name: Famas
+  m_EditorClassIdentifier: 
+  itemName: Famas
+  itemType: 3
+  itemImg: {fileID: 21300000, guid: b3db40746f118ef4b9b3dccc116df7da, type: 3}
+  itemPrefab: {fileID: 1396424805824408, guid: 202003ece6e35ef4fad14a618173afd3, type: 3}
+  weaponMesh: {fileID: 4300000, guid: 49a29c6e3aadff54691ab084ad47989b, type: 3}
+  equipType: 
+  equipLv: 0
+  healAmount: 0
+  thristAmonut: 0
+  drinkCount: 0
+  purifyTime: 0
+  fireRate: 0.12
+  maxBulletCount: 25
+  retroForce: 2
+  damage: 30
+  bulletLevel: 2
+  ammoLevel: 0
+  maxItemCount: 0
+  reloadSfx: {fileID: 8300000, guid: d4f34c7678486aa49b4edd604a300c01, type: 3}
+  gunSound: {fileID: 8300000, guid: 5931d7d831e828d4cb43c47f76a5978f, type: 3}

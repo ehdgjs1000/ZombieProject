@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5a68d9ae19f9546843bcd9b8dde43d, type: 3}
+  m_Name: FoodLv3
+  m_EditorClassIdentifier: 
+  itemName: FoodLv3
+  itemType: 1
+  itemImg: {fileID: 21300000, guid: d0beee49f36b8e243bf704347d541d52, type: 3}
+  itemPrefab: {fileID: 2903849158957363686, guid: 6e8e39fe9724c13499e214bc47436a10, type: 3}
+  weaponMesh: {fileID: -4845696710688150904, guid: ef8f38555e95d65438aeafc8a3b342cf, type: 3}
+  equipType: 
+  equipLv: 0
+  healAmount: 0
+  thristAmonut: 0
+  hungryAmount: 30
+  drinkCount: 0
+  purifyTime: 0
+  fireRate: 0
+  maxBulletCount: 0
+  retroForce: 0
+  damage: 0
+  bulletLevel: 0
+  ammoLevel: 0
+  maxItemCount: 0
+  reloadSfx: {fileID: 0}
+  gunSound: {fileID: 0}
